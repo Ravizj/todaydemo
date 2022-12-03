@@ -5,7 +5,7 @@ public class Calculator {
 //ravi kumar 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
 
 
-    static void sum(int num1,int num2){
+    static void sum(int num1,int num2){//date
         int sum = num1 + num2;
         System.out.println(sum);
     }
